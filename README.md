@@ -4,7 +4,7 @@
 
 Below you can find the techniques and data used in the Tree of Life audio/visual performance in collaboration with [Fazıl Say](https://en.wikipedia.org/wiki/Faz%C4%B1l_Say), [Jamal Aliyev](https://en.wikipedia.org/wiki/Jamal_Aliyev) and [Zorlu PSM](https://en.wikipedia.org/wiki/Zorlu_PSM).
 
-At the same time, we share [the StyleGAN-2 model](#gans-model-weights), which has been trained with 60 million nature and tree images, as open source.
+At the same time, we share [the StyleGAN-2 model](#gans-model-weights), which has been trained with 65 million nature and tree images, as open source.
 
 ## Latent Walk GAN Browser
 
